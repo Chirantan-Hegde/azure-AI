@@ -27,8 +27,8 @@ This repository contains implementations of:
 
 ## Student Details
 
-Name: Anushraj KB
+Name: Chiranthan ganesh hegde
 
-USN: 1JB24AI005
+USN: 1JB24AI010
 
 Branch: Artificial Intelligence and Machine Learning (AIML)
